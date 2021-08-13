@@ -93,7 +93,7 @@
     "eslint-plugin-react-hooks": "^3.0.0",
     "husky": "^4.2.5",
     "module-alias": "^2.2.2",
-    "next": "^9.3.6",
+    "next": "^11.1.0",
     "sinon": "^9.0.2",
     "unique-string": "^2.0.0",
     "xo": "^0.30.0"
