@@ -67,7 +67,7 @@
     "p-event": "^4.1.0",
     "package-json": "^6.5.0",
     "pify": "^4.0.1",
-    "plist": "^3.0.1",
+    "plist": "^3.0.4",
     "pretty-ms": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
